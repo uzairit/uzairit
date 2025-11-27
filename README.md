@@ -1,9 +1,7 @@
-#  Hi there, I'm Uzair — Frontend Developer  
-
-🚀 Passionate **Frontend Developer**  
-🌈 Focused on writing clean, reusable, and efficient code.  
-
----
+<h1 align="center">
+  <img alt="Typing: Hi there, I'm Uzair — I am a Frontend Developer"
+       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+there%2C+I%27m+Uzair;I+am+a+Frontend+Developer" />
+</h1>
 
 ## About Me  
 - 💻 I build **clean, user-friendly, and performant** web interfaces.  
