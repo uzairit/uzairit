@@ -1,13 +1,13 @@
 <h1 align="center">
   <img alt="Typing Animation"
-       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+there%2C+I'm+Uzair;I+am+a+Frontend+Developer" />
+       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Hi+there%2C+I'm+Uzair;I+am+a+Full+Stack+Developer" />
 </h1>
 
 ---
 
 <p align="center">
-  I'm a passionate <b>Frontend Developer</b> who loves building beautiful, user-friendly, and scalable web applications.<br>
-  I focus on writing clean, modern code and continuously improving my skills.
+  I'm a passionate <b>Full Stack Developer</b> who enjoys building scalable, user-friendly, and high-performance web & mobile applications.<br>
+  I work on everything from clean UI to robust backend systems.
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ## <p align="center">👨‍💻 About Me</p>
 
 <p align="center">
-💻 I build <b>clean, user-friendly, and performant</b> web interfaces.<br>
-🌱 Currently learning <b>Advanced React Topics</b> to master component architecture, hooks, and state management.<br>
-⚙️ I enjoy working with modern tools and frameworks that make development efficient and scalable.<br>
-🎯 Goal: To become a <b>Full-Stack Developer</b> and create impactful web applications.
+💻 I build <b>modern, responsive, and performant</b> web & mobile applications.<br>
+🌱 Currently improving my skills in <b>backend architecture, REST APIs, and scalable systems</b>.<br>
+⚙️ I enjoy working with modern frameworks, databases, and cloud platforms.<br>
+🎯 Goal: To create <b>production-ready full-stack applications</b> that solve real-world problems.
 </p>
 
 ---
@@ -32,9 +32,23 @@
 
 ---
 
-### <p align="center">⚙️ Backend & Database</p>
+### <p align="center">📱 Mobile App Development</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+---
+
+### <p align="center">⚙️ Backend Development</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### <p align="center">🗄️ Databases & Backend Services</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 </p>
 
 ---
@@ -42,18 +56,6 @@
 ### <p align="center">🧰 Tools & Platforms</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
-
----
-
-## <p align="center">📊 GitHub Stats</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairit&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairit&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -66,3 +68,7 @@
 </p>
 
 ---
+
+<p align="center">
+ Always open to collaborating on full-stack and mobile app projects.
+</p>
