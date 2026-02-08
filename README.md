@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  I'm a passionate <b>Full Stack Developer</b> who enjoys building scalable, user-friendly, and high-performance web & mobile applications.<br>
+  I'm a passionate <b>Mern Stack Developer</b> who enjoys building scalable, user-friendly, and high-performance web & mobile applications.<br>
   I work on everything from clean UI to robust backend systems.
 </p>
 
